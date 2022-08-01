@@ -18,7 +18,7 @@ Android Studio with
  dart pub get
  run lib/main.dart
 ```
-
+You need to apply for a google map api key and type in your own database info to run the app
 
 A few resources to get you started if this is your first Flutter project:
 
