@@ -1,7 +1,7 @@
 # AssetMappr-Mobile-APP
 
-![FirstPage.png](https://raw.github.com/annawangkkk/AssetMappr-Mobile-APP/master/firstPage.png)
-![SecondPage.png](https://raw.github.com/annawangkkk/AssetMappr-Mobile-APP/master/SecondPage.png)
+![FirstPage.png](https://raw.github.com/cagehao/AssetMappr-Mobile-APP-master/master/firstPage.png)
+![SecondPage.png](https://raw.github.com/cagehao/AssetMappr-Mobile-APP-master/master/SecondPage.png)
 
 ## About this App
 This is a mobile application for community asset mapping developed using Flutter.  [Web Version](https://github.com/jameson-c/asset-mappr)
