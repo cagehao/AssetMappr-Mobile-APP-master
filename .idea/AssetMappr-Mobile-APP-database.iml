@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/build" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/AssetMappr-Mobile-APP-database/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/linux/flutter/ephemeral/.plugin_symlinks/url_launcher_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/windows/flutter/ephemeral/.plugin_symlinks/geolocator_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/google_maps_flutter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/google_maps_flutter/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/google_maps_flutter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/url_launcher_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/url_launcher_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/url_launcher_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geocoding/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geocoding/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geocoding/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/url_launcher_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/url_launcher_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/url_launcher_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geolocator_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geolocator_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geolocator_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/google_maps_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/google_maps_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/google_maps_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geolocator_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geolocator_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geolocator_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geocoding/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geocoding/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/asset_mapper/ios/.symlinks/plugins/geocoding/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
