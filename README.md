@@ -1,6 +1,6 @@
 # AssetMappr-Mobile-APP
 
-![FirstPage.png](https://raw.github.com/cagehao/AssetMappr-Mobile-APP-master/master/firstPage.png)
+![firstPage.png](https://raw.github.com/cagehao/AssetMappr-Mobile-APP-master/master/firstPage.png)
 ![SecondPage.png](https://raw.github.com/cagehao/AssetMappr-Mobile-APP-master/master/SecondPage.png)
 
 ## About this App
